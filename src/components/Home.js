@@ -40,13 +40,13 @@ const Home = () => {
         <h2>Customer Testimonials</h2>
         <div className="testimonial-list">
           <div className="testimonial">
-            <p>"Great selection of noodles and fast delivery!" - Saman</p>
+            <p>"Great selection of noodles and fast delivery!" - Shehan</p>
           </div>
           <div className="testimonial">
-            <p>"Love the Buldak Carbonara! Will order again." - Ruwan</p>
+            <p>"Love the Buldak Carbonara! Will order again." - Peshala</p>
           </div>
           <div className="testimonial">
-            <p>"Excellent customer service and quality products." - Amara</p>
+            <p>"Excellent customer service and quality products." - sadunika</p>
           </div>
         </div>
       </section>
