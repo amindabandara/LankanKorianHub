@@ -17,7 +17,7 @@ const Home = () => {
             <h3>Shin Ramen</h3>
           </div>
           <div className="product">
-            <img src="/images/buldak-carbonara.png" alt="Buldak Carbonara" />
+            <img src="/images/buldk-cabo.jpg" alt="Buldak Carbonara" />
             <h3>Buldak Carbonara</h3>
           </div>
           <div className="product">
