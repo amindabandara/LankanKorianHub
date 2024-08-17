@@ -10,14 +10,14 @@
       "id": 2,
       "name": "Buldak Carbonara",
       "description": "Creamy and spicy ramen noodles.",
-      "price": 700,
+      "price": 750,
       "image": "/images/buldak-carbonara.png"
     },
     {
       "id": 3,
       "name": "Buldak Rose",
       "description": "Rose flavored spicy ramen noodles.",
-      "price": 700,
+      "price": 750,
       "image": "/images/buldak-rose.jpg"
     },
     {
