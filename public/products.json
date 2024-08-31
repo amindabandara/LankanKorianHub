@@ -3,28 +3,28 @@
       "id": 1,
       "name": "Shin Ramen",
       "description": "Spicy Korean veg ramen noodles.",
-      "price": 480,
+      "price": 420,
       "image": "/images/shin-ramen.png"
     },
     {
       "id": 2,
       "name": "Buldak Carbonara",
       "description": "Creamy and spicy ramen noodles.",
-      "price": 750,
+      "price": 660,
       "image": "/images/buldk-cabo.jpg"
     },
     {
       "id": 3,
       "name": "Buldak Rose",
       "description": "Rose flavored spicy ramen noodles.",
-      "price": 750,
+      "price": 660,
       "image": "/images/buldak-rose.jpg"
     },
     {
       "id": 4,
       "name": " Buldak black",
       "description": "spicy ramen noodles..",
-      "price": 650,
+      "price": 550,
       "image": "/images/black.jpg"
     }
   ]
