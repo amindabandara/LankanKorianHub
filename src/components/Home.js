@@ -21,7 +21,7 @@ const Home = () => {
             <h3>Buldak Carbonara</h3>
           </div>
           <div className="product">
-            <img src="/images/ert.webp" alt="Buldak Quattro Cheese" />
+            <img src="/images/qqq.png" alt="Buldak Quattro Cheese" />
             <h3>Buldak Quattro Cheese</h3>
           </div>
           <div className="product">
