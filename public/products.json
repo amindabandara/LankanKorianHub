@@ -4,28 +4,28 @@
       "name": "Shin Ramen",
       "description": "Spicy Korean veg ramen noodles.",
       "price": 420,
-      "image": "/images/shin-ramen.png"
+      "image": "/images/s4.png"
     },
     {
       "id": 2,
       "name": "Buldak Carbonara",
       "description": "Creamy and spicy ramen noodles.",
       "price": 690,
-      "image": "/images/buldk-cabo.jpg"
+      "image": "/images/1.png"
     },
     {
       "id": 3,
       "name": "Buldak Quattro Cheese",
       "description": "Easy cheesy for cheesy lovers.",
       "price": 690,
-      "image": "/images/qqq.png"
+      "image": "/images/2.png"
     },
     {
       "id": 4,
       "name": " Buldak Black",
       "description": "spicy ramen noodles..",
       "price": 550,
-      "image": "/images/blackmy.jpg"
+      "image": "/images/3.png"
     }
   ]
   
