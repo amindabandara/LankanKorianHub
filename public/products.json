@@ -10,14 +10,14 @@
       "id": 2,
       "name": "Buldak Carbonara",
       "description": "Creamy and spicy ramen noodles.",
-      "price": 660,
+      "price": 690,
       "image": "/images/buldk-cabo.jpg"
     },
     {
       "id": 3,
       "name": "Buldak quadark cheese",
       "description": "Easy cheesy for cheesy lovers.",
-      "price": 680,
+      "price": 690,
       "image": "/images/ert.webp"
     },
     {
