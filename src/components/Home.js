@@ -13,19 +13,19 @@ const Home = () => {
         <h2>Featured Products</h2>
         <div className="product-list">
           <div className="product">
-            <img src="/images/shin-ramen.png" alt="Shin Ramen" />
+            <img src="/images/s4.png" alt="Shin Ramen" />
             <h3>Shin Ramen</h3>
           </div>
           <div className="product">
-            <img src="/images/buldk-cabo.jpg" alt="Buldak Carbonara" />
+            <img src="/images/1.png" alt="Buldak Carbonara" />
             <h3>Buldak Carbonara</h3>
           </div>
           <div className="product">
-            <img src="/images/qqq.png" alt="Buldak Quattro Cheese" />
+            <img src="/images/2.png" alt="Buldak Quattro Cheese" />
             <h3>Buldak Quattro Cheese</h3>
           </div>
           <div className="product">
-            <img src="/images/black.jpg" alt="Buldak Black" />
+            <img src="/images/3.png" alt="Buldak Black" />
             <h3> Buldak Black</h3>
           </div>
         </div>
