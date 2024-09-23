@@ -34,7 +34,7 @@ const Home = () => {
           </div>
         <div className="product">
             <img src="/images/nohyu.jpg" alt="Pears" />
-            <h3> Pears Ramen Ramen</h3>
+            <h3> Pears Ramen </h3>
           </div>
         </div>
       </section>
