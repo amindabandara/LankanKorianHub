@@ -21,8 +21,8 @@ const Home = () => {
             <h3>Buldak Carbonara</h3>
           </div>
           <div className="product">
-            <img src="/images/2.png" alt="Buldak Quattro Cheese" />
-            <h3>Buldak Quattro Cheese</h3>
+            <img src="/images/2.png" alt="HotDak Cheese" />
+            <h3>HotDuck Cheese</h3>
           </div>
           <div className="product">
             <img src="/images/3.png" alt="Buldak Black" />
