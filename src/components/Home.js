@@ -28,6 +28,10 @@ const Home = () => {
             <img src="/images/3.png" alt="Buldak Black" />
             <h3> Buldak Black</h3>
           </div>
+        <div className="product">
+            <img src="/images/3.png" alt="Neoguri" />
+            <h3> Neoguri Ramen</h3>
+          </div>
         </div>
       </section>
       
