@@ -31,6 +31,13 @@
        {
       "id": 5,
       "name": "Neoguri",
+      "description": " Seafood ramen noodles.",
+      "price": 620,
+      "image": "/images/nohyu.jpg"
+    },
+      {
+      "id": 6,
+      "name": "Pears Ramen",
       "description": "Swite Korean ramen noodles.",
       "price": 620,
       "image": "/images/nohyu.jpg"
