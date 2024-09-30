@@ -64,17 +64,25 @@ const Home = () => {
         <p>No promotions available at now</p>
       </section>
 
-      <section className="testimonials">
-        <h2>Customer Testimonials</h2>
-        <div className="testimonial-list">
-          <div className="testimonial">
-            <p>"Great selection of noodles and fast delivery!" - Shehan</p>
+      {/* New "Why Choose Us" section */}
+      <section className="why-choose-us">
+        <h2>Why Choose Lankan Korean Hub?</h2>
+        <div className="reasons-list">
+          <div className="reason">
+            <h3>High-Quality Products</h3>
+            <p>We offer authentic and top-quality Korean ramen noodles directly from trusted suppliers.</p>
           </div>
-          <div className="testimonial">
-            <p>"Love the Buldak Carbonara! Will order again." - Peshala</p>
+          <div className="reason">
+            <h3>Fast Delivery</h3>
+            <p>Enjoy quick and reliable delivery across Sri Lanka. Your order will be at your doorstep in no time!</p>
           </div>
-          <div className="testimonial">
-            <p>"Excellent customer service and quality products." - Sadunika</p>
+          <div className="reason">
+            <h3>Customer Satisfaction</h3>
+            <p>Our customers love us! We strive to provide the best service and ensure a smooth shopping experience.</p>
+          </div>
+          <div className="reason">
+            <h3>Exclusive Offers</h3>
+            <p>Look out for special deals and discounts exclusive to Lankan Korean Hub shoppers!</p>
           </div>
         </div>
       </section>
