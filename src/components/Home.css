@@ -37,6 +37,45 @@
   transform: translateY(-10px);
   box-shadow: 0 8px 16px rgba(0, 0, 0, 0.2);
 }
+.why-choose-us {
+  padding: 40px 20px;
+  background-color: #f9fafb;
+  text-align: center;
+}
+
+.why-choose-us h2 {
+  font-size: 28px;
+  margin-bottom: 30px;
+  color: #444;
+}
+
+.reasons-list {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-around;
+}
+
+.reason {
+  width: 220px;
+  margin: 20px;
+  padding: 20px;
+  background-color: #fff;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+  border-radius: 10px;
+  text-align: center;
+}
+
+.reason h3 {
+  font-size: 20px;
+  margin-bottom: 15px;
+  color: #222;
+}
+
+.reason p {
+  font-size: 16px;
+  color: #555;
+}
+
 
 .product img:hover {
   transform: scale(1.05);
